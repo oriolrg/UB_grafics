@@ -1,0 +1,4 @@
+Modificacions Practica 1:
+
+- Pla base unitari escalat per donar-li forma de rectangle
+- Metode CalculUV afegit encarregat de calcular els u i v necesaris per les textures per cada point
